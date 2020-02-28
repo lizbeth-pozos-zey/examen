@@ -13,9 +13,9 @@ $num2 =  $_POST['nume2'];
 
 $res= $num1*$num2 //se realiza la multiplicacion de los datos obtenidos
 
- echo "EL NUMERO ES " $num1 ;
- echo "EL MULTIPLICADOR " $num2;
- echo " EL RESULTADO " $res;
+ echo "EL NUMERO ES " , $num1;
+ echo "EL MULTIPLICADOR " , $num2;
+ echo " EL RESULTADO " , $res;
  ?>
 </body>
 </html>
